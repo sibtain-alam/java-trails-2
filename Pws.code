@@ -1,0 +1,11 @@
+class pw skill{
+psvm{
+System.out.print(hello);
+}
+
+psvm{
+System.out.print(world);
+}
+psvm{
+System.out.print(saif);
+}
